@@ -10,7 +10,7 @@
 ### 📌 About Me  
 - 🎯 I'm currently working on **[Nothing To Special](https://github.com/RicardoNicolau/YourProject)**
 - 📚 I'm currently studying at **[@Technigo](https://github.com/technigo)**  
-- 🚀 I'm learning *JavaScript, TypeScript, and more**  
+- 🚀 I'm learning *JavaScript, TypeScript, and more...*  
 - 🌐 Check out my projects at [Site will soon be launched](https://github.com/RicardoNicolau)  
 - 📫 Reach me at **ricardonicolau2001@gmail.com**  
 
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white"/>
 
   <!-- Accessibility -->
   <img src="https://img.shields.io/badge/Web%20Accessibility-000000?style=for-the-badge&logo=w3c&logoColor=white"/>
