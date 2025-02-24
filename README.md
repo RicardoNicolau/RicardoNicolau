@@ -8,7 +8,7 @@
 ---
 
 ### 📌 About Me  
-- 🎯 I'm currently working on **[Nothing To Special]([https://github.com/RicardoNicolau/YourProject](https://github.com/RicardoNicolau?tab=projects))**  
+- 🎯 I'm currently working on **[Nothing To Special](https://github.com/RicardoNicolau/YourProject)**
 - 📚 I'm currently studying at **[@Technigo](https://github.com/technigo)**  
 - 🚀 I'm learning *JavaScript, TypeScript, and more**  
 - 🌐 Check out my projects at [Site will soon be launched](https://github.com/RicardoNicolau)  
