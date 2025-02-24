@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm RicardoNicolau </h1>
+<h1 align="center"> Hi 👋, I'm Ricardo Nicolau </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RicardoNicolau&label=Profile%20views&color=0e75b6&style=flat" alt="RicardoNicolau" />
