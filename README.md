@@ -8,7 +8,7 @@
 ---
 
 ### 📌 About Me  
-- 🎯 I'm currently working on **[Nothing To Special](https://github.com/RicardoNicolau/YourProject)**
+- 🎯 I'm currently working on **[Recipe Libary](https://github.com/RicardoNicolau/YourProject)**
 - 📚 I'm currently studying at **[@Technigo](https://github.com/technigo)**  
 - 🚀 I'm learning *C#, Python, and more...*  
 - 🌐 Check out my projects at [Site will soon be launched](https://github.com/RicardoNicolau)  
