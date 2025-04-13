@@ -8,10 +8,10 @@
 ---
 
 ### 📌 About Me  
-- 🎯 I'm currently working on **[Portfolio](https://github.com/RicardoNicolau/js-project-recipe-library)**
+- 🎯 I'm currently working on **[Portfolio](https://github.com/RicardoNicolau/Portfolio)**
 - 📚 I'm currently studying at **[@Technigo](https://github.com/technigo)**  
 - 🚀 I'm learning *C#, Python, and more...*  
-- 🌐 Check out my projects at [Site will soon be launched](https://github.com/RicardoNicolau)  
+- 🌐 Check out my projects at [Portfolio](https://devfolio-rn.netlify.app/)  
 - 📫 Reach me at **ricardonicolau2001@gmail.com**  
 
 ---
