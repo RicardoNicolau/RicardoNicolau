@@ -8,7 +8,7 @@
 ---
 
 ### 📌 About Me  
-- 🎯 I'm currently working on **[Portfolio](https://github.com/RicardoNicolau/Portfolio)**
+- 🎯 I'm currently working on **[Portfolio](https://devfolio-rn.netlify.app/)**
 - 📚 I'm currently studying at **[@Technigo](https://github.com/technigo)**  
 - 🚀 I'm learning *C#, Python, and more...*  
 - 🌐 Check out my projects at [Portfolio](https://devfolio-rn.netlify.app/)  
